@@ -224,7 +224,6 @@ body {
   
   nav {
     float: right;
-    margin-right: -20%;
   }
 
   .cont {
@@ -233,13 +232,6 @@ body {
   .container {
     float: left;
     width: 75%;
-  }
-  /* #main-container {
-    padding: 120px 30% 120px;
-    width: 100%;
-    max-width: 960px;
-    margin: 0 auto;
-    clear: both; */
   }
 
   ul {
@@ -253,8 +245,6 @@ body {
   } 
   nav {
     float: right;
-    margin-left: -10px;
-    margin-right: 20px;
   }
   #main-container {
     padding-top: 120px;
@@ -271,6 +261,10 @@ body {
     padding: 0px;
   }
 
+  #logo {
+    margin: 0px;
+  }
+  
   .container {
     width: 100%;
   }
